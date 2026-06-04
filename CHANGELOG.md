@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-01)
+## Unreleased (2026-06-04)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`3bf760c`](https://github.com/stdlib-js/stdlib/commit/3bf760c663458801bfd17ca21ae891b724331fe9) - type `order` parameter as `Layout` in `blas/ext/base/dcartesian-square` [(#12531)](https://github.com/stdlib-js/stdlib/pull/12531)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`3bf760c`](https://github.com/stdlib-js/stdlib/commit/3bf760c663458801bfd17ca21ae891b724331fe9) - **fix:** type `order` parameter as `Layout` in `blas/ext/base/dcartesian-square` [(#12531)](https://github.com/stdlib-js/stdlib/pull/12531) _(by Philipp Burckhardt)_
 -   [`0f2cc7c`](https://github.com/stdlib-js/stdlib/commit/0f2cc7c6e98ae9681285d72aecba3f0b258106e2) - **docs:** update descriptions _(by Athan Reines)_
 -   [`16f0b29`](https://github.com/stdlib-js/stdlib/commit/16f0b29fb88f155754b1ebbd15542a3651c7a31d) - **refactor:** remove duplicated assignments _(by Athan Reines)_
 -   [`54c4bf0`](https://github.com/stdlib-js/stdlib/commit/54c4bf0a710d135c9a435f44b87171a1b23970de) - **chore:** minor clean-up [(#11814)](https://github.com/stdlib-js/stdlib/pull/11814) _(by Philipp Burckhardt)_
